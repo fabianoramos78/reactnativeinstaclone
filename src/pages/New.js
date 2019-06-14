@@ -5,7 +5,7 @@ import ImagePicker from 'react-native-image-picker';
 
 export default class New extends Component {
   static navigationOptions = {
-      headerTitle: 'Nova Publicação'
+      headerTitle: 'Nova Postagem'
   };  
 
   state = {
